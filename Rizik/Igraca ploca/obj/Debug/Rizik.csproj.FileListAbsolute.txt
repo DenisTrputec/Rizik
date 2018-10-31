@@ -1,0 +1,63 @@
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\bin\Debug\Rizik.exe.config
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\bin\Debug\Rizik.exe
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.GlavniIzbornik.resources
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.IgracaPloca.resources
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PocetniEkran.resources
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PremjestanjeTenkova.resources
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.Properties.Resources.resources
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.exe
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.pdb
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\bin\Debug\Rizik.pdb
+C:\Users\Denis\Desktop\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.csprojResolveAssemblyReference.cache
+D:\Rizik\Rizik\Igraca ploca\bin\Debug\Rizik.exe.config
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.exe
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.pdb
+D:\Rizik\Rizik\Igraca ploca\bin\Debug\Rizik.exe
+D:\Rizik\Rizik\Igraca ploca\bin\Debug\Rizik.pdb
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.csprojResolveAssemblyReference.cache
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.GlavniIzbornik.resources
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.IgracaPloca.resources
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PocetniEkran.resources
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PremjestanjeTenkova.resources
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.Properties.Resources.resources
+D:\Rizik\Rizik\Igraca ploca\obj\Debug\Rizik.csproj.GenerateResource.Cache
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\bin\Debug\Rizik.exe.config
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Rizik.exe
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Rizik.pdb
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\bin\Debug\Rizik.exe
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\bin\Debug\Rizik.pdb
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Rizik.csprojResolveAssemblyReference.cache
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.GlavniIzbornik.resources
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.IgracaPloca.resources
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PocetniEkran.resources
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PremjestanjeTenkova.resources
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Rizik.Properties.Resources.resources
+C:\Users\slobo\Desktop\Rizik\Igraca ploca\obj\Debug\Rizik.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\bin\Debug\Rizik.exe.config
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Rizik.exe
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Rizik.pdb
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\bin\Debug\Rizik.exe
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\bin\Debug\Rizik.pdb
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Rizik.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.GlavniIzbornik.resources
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.IgracaPloca.resources
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PocetniEkran.resources
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PremjestanjeTenkova.resources
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Rizik.Properties.Resources.resources
+C:\Users\Denis\Desktop\Rizik - S\Rizik\Igraca ploca\obj\Debug\Rizik.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\bin\Debug\Rizik.exe.config
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Rizik.exe
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Rizik.pdb
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\bin\Debug\Rizik.exe
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\bin\Debug\Rizik.pdb
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Rizik.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.GlavniIzbornik.resources
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.IgracaPloca.resources
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PocetniEkran.resources
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Igraca_ploca.PremjestanjeTenkova.resources
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Rizik.Properties.Resources.resources
+C:\Users\Denis\Desktop\Rizik v1.00\Rizik\Igraca ploca\obj\Debug\Rizik.csproj.GenerateResource.Cache
+D:\Fax,škola,itd\ETF\Završni rad\Rizik v1.00\Kod\Rizik\Igraca ploca\bin\Debug\Rizik.exe.config
+D:\Fax,škola,itd\ETF\Završni rad\Rizik v1.00\Kod\Rizik\Igraca ploca\obj\Debug\Rizik.exe
+D:\Fax,škola,itd\ETF\Završni rad\Rizik v1.00\Kod\Rizik\Igraca ploca\obj\Debug\Rizik.pdb
